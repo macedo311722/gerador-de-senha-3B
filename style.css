@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Poetsen+One&display=swap');  
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --preto: #0a0908ff;
+    --azul: rgb(0, 174, 255);
+    --branco: #f2f4f3ff;
+    --laranja: #a9927dff;
+    --maron: #5e503fff;
+    --fonte-titulo: "Freeman", sans-serif;
+    --fonte-texto: "Poetsen One", sans-serif;
+}
