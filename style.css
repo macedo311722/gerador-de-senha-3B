@@ -14,3 +14,19 @@
     --fonte-titulo: "Freeman", sans-serif;
     --fonte-texto: "Poetsen One", sans-serif;
 }
+
+body{
+    background-color: var(--azul);
+    color: var(--preto);
+    font-family: var(--fonte-texto);
+}
+.titulo-principal{
+    font-family:var(--texto-titulo)
+}
+.conteudo-titulo{ 
+    text-align: center;
+    margin-top: 80px;
+}
+.img-cadeado{
+    width: 5%;
+}
